@@ -7,7 +7,7 @@ permalink: /about/
 Computer science major with some EE experience.  I presently work in computer networking/systems integration.
 
 Current Interests:
-+ Arduino Microcontrollers
+*Arduino Microcontrollers
 * Asterisk PBX
 * Cisco SDN
 * Embedded device programming
