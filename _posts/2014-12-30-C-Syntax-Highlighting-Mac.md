@@ -22,4 +22,3 @@ Here's how I did it:
 
 
 ![Example](/images/Nano.jpg)
-![My helpful screenshot]({{ site.url }}/images/Nano.jpg)
