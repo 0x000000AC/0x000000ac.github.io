@@ -21,4 +21,5 @@ Here's how I did it:
 5. I inculded a reference to the file I created: include "/usr/local/share/nano/c.nanorc"
 
 
-![Example](/images/Nano.tiff)
+![Example](/images/Nano.jpg)
+![My helpful screenshot]({{ site.url }}/images/Nano.jpg)
