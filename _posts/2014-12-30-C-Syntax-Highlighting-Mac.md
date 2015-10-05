@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nano Syntax Highlighting for C with Mac
+title: Nano Syntax Highlighting for C in OSX Bash
 ---
 
 Recently, I have rekindled an interest with the C programmming langauge and have decided that I would
