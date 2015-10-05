@@ -4,7 +4,7 @@ title: Nano Syntax Highlighting for C in OSX Bash
 ---
 
 Recently, I have rekindled an interest with the C programmming langauge and have decided that I would
-pick up the ~~canonical K&R book~~ (switched over to Programming in C by Kochan) on the subject.  
+pick up the (was K& R, I have since switched over to Programming in C by Kochan) on the subject.  
 Most that I know who didn't take any formal classes on the subject recommend it.
 
 I'm fond of editing on the go with my laptop -- which for now is a Macbook pro.   From experience around Linux sysadmins
