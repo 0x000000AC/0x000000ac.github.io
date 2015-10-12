@@ -26,7 +26,7 @@ disappointed.
 I came across a bash script written by a guy named Todd Stein, who credits [teffalump](https://gist.github.com/teffalump/7227752)
 with the original work.   
 
-```bash 
+```shell
 #!/bin/sh
 
 # adblocker.sh - by Todd Stein (toddbstein@gmail.com), Saturday, October 25, 2014
