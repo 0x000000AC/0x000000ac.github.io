@@ -23,8 +23,8 @@ for the content I want.
 So I set out on a quest.   A quest for ad-free browsing.   Boy, I certainly wasn't 
 disappointed.
 
-I came across a bash script written by a guy named Todd Stein, who credits [teffalump](https://gist.github.com/teffalump/7227752)
-with the original work.   
+I came across a bash script written by a guy named Todd Stein which periodically reaches
+out to update update a blacklist.   
 
 
     #!/bin/sh
@@ -180,5 +180,53 @@ time I had flashed with OpenWrt, so I wasn't sure if I was going to have to buil
 cable, tftp, or something like JTAG.
 
 It was wildly more simple than that.   Details follow.
+
+1. Logging into the router to check the firmware version so that I can ensure I select
+the correct OpenWrt version.
  
- ![Yours Truly on the Foxhunt](/images/yagiClark.jpg)
+![TL-WR841N](/images/1_Version9.jpg)
+ 
+2. Version 9 of the stock firmware works with 15.05
+
+![OpenWrt Version](/images/2_firmwareVersion.jpg)
+
+3. Navigating to firmware upgrade section of the 841.
+
+![Firmware update](/images/4_FirmwareUpdate.jpg)
+
+4. It successfully took!
+
+![Upgrade in progress](/images/5_upgrading.jpg)
+
+5. Logging in to OpenWrt after reboot.
+
+![Logging into Wrt](/images/6_loginWRT.jpg)
+
+6. Verifying the OpenWrt version.
+
+![New firmware](/images/7_SystemAdministration.jpg)
+
+7. Now that the new firmware is running, it's time to SSH in to the device so that
+so that we can pull down the script and get it running.
+
+![ssh in](/images/9_sshingIn.jpg)
+
+8. Pulling the script
+
+![getting script](/images/10_getScript.jpg)
+
+9. MD5 the script against the site MD5 to verify authenticity.
+
+![MD5 the script](/images/11_md5.jpg)
+
+10. Setting the script to be an executable and running it.
+
+![running the script](/images/12_execute.jpg)
+
+11. Confirming the script is running.
+
+![confirming the script is running](/images/13_confirm.jpg)
+
+12. If needed, you can always uninstall the script as well
+
+![uninstalling script](/images/14_toUninstall.jpg)
