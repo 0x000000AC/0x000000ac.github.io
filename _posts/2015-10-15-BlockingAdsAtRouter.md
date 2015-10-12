@@ -188,7 +188,7 @@ the correct OpenWrt version.
  
 2. Version 9 of the stock firmware works with 15.05
 
-![OpenWrt Version](/images/2_firmwareVersion.jpg)
+![OpenWrt Version](/images/2_firwareVersion.jpg)
 
 3. Navigating to firmware upgrade section of the 841.
 
