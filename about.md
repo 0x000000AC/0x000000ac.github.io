@@ -23,8 +23,3 @@ Current Interests:
 - Software Defined Networking
 - Systems Engineering
 - VB.NET
-
-
-### Contact me
-
-[aapclark@gmail.com](mailto:aaplclark@gmail.com)
